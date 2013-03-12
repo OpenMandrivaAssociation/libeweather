@@ -9,7 +9,7 @@
 #cd ..; \
 #tar -Jcf libeweather-$PKG_VERSION.tar.xz libeweather/ --exclude .svn --exclude .*ignore
 
-%define svnrev	77661
+%define svnrev	84427
 
 %define major 0
 %define libname %mklibname eweather %{major}
