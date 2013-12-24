@@ -67,7 +67,7 @@ Provides:	%{name}-devel = %{version}-%{release}
 %setup -qn %{name}-%{version}.%{gitdate}
 
 %build
-autorconf -fi
+autoreconf -fi
 %configure2_5x \
 	--disable-static
 %make
