@@ -1,4 +1,4 @@
-%define gitdate 20131224
+%define gitdate 20150504
 
 %define major 0
 %define libname %mklibname eweather %{major}
@@ -7,11 +7,11 @@
 Summary:	Enlightenment weather/forecasts module
 Name:		libeweather
 Version:	0.2.0
-Release:	2.%{gitdate}.1
+Release:	2.%{gitdate}.2
 License:	LGPLv2+
 Group:		Graphical desktop/Enlightenment
 Url:		http://www.enlightenment.org/
-Source0:	%{name}-%{version}.%{gitdate}.tar.bz2
+Source0:	%{name}-%{version}.%{gitdate}.tar.gz
 BuildRequires:	gettext-devel
 BuildRequires:	edje
 BuildRequires:	embryo
