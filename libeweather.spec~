@@ -7,7 +7,7 @@
 Summary:	Enlightenment weather/forecasts module
 Name:		libeweather
 Version:	0.2.0
-Release:	3.%{gitdate}.0
+Release:	3.%{gitdate}.1
 License:	LGPLv2+
 Group:		Graphical desktop/Enlightenment
 Url:		http://www.enlightenment.org/
