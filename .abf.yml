@@ -1,4 +1,5 @@
 removed_sources:
   libeweather-0.2.0.20131224.tar.bz2: 6509070e6d1775daae1f0cce68927e5ffb14b35f
-sources:
   libeweather-0.2.0.20150504.tar.gz: 34b4630b9cd2f67f6de9746a64b35c48e6aee708
+sources:
+  libeweather-0.2.0.20150504.tar.gz: d7fcfa0bb4318ef3e9bee306d0d6e3c599786760
