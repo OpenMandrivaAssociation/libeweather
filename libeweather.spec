@@ -64,7 +64,7 @@ Provides:	%{name}-devel = %{version}-%{release}
 #----------------------------------------------------------------------------
 
 %prep
-%setup -qn %{name}-%{version}.%{gitdate}
+%setup -qn %{name}-%{gitdate}
 
 %build
 autoreconf -fi
