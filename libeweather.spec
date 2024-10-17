@@ -10,7 +10,7 @@ Version:	0.2.0
 Release:	3.%{gitdate}.0
 License:	LGPLv2+
 Group:		Graphical desktop/Enlightenment
-Url:		http://www.enlightenment.org/
+Url:		https://www.enlightenment.org/
 Source0:	%{name}-%{version}.%{gitdate}.tar.gz
 BuildRequires:	gettext-devel
 BuildRequires:	edje
