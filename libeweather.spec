@@ -12,6 +12,11 @@ License:	LGPLv2+
 Group:		Graphical desktop/Enlightenment
 Url:		https://www.enlightenment.org/
 Source0:	%{name}-%{version}.%{gitdate}.tar.gz
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	gettext-devel
 BuildRequires:	edje
 BuildRequires:	embryo
